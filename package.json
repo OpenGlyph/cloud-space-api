@@ -19,9 +19,8 @@
     "test:watch": "vitest",
     "prepublishOnly": "pnpm lint && pnpm test && pnpm build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "GlyphWorks",
+  "license": "MIT",
   "packageManager": "pnpm@10.11.1",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
