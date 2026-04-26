@@ -15,6 +15,7 @@ export class HttpClient {
     return {
       cookie: `authorization=${this.authValue}`,
       'Content-Type': 'application/json',
+      'Env': '1'
     };
   }
 
