@@ -1,9 +1,5 @@
 import { HttpClient } from '../client.js';
-import {
-  PaginatedList,
-  TableColumnValue,
-  TableRecord,
-} from '../types.js';
+import { PaginatedList, TableColumnValue, TableRecord } from '../types.js';
 
 export class Table {
   private client: HttpClient;
