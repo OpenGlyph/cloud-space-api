@@ -1,6 +1,6 @@
 {
   "name": "cloud-space-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Codemao Cloud Space API Library for Node.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
